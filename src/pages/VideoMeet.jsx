@@ -938,7 +938,7 @@ import React, { useEffect, useRef, useState } from 'react';
  import TextField from '@mui/material/TextField';
  import Button from '@mui/material/Button';
  import io from "socket.io-client";
- import styles from "/src/styles/VideoComponent.module.css";
+ import styles from "./VideoComponent.module.css";
 import { Badge, colors, IconButton } from '@mui/material';
 import VideocamIcon from '@mui/icons-material/Videocam';
 import VideocamOffIcon from '@mui/icons-material/VideocamOff';
